@@ -6,17 +6,17 @@ light-dark mode capability
 
 ## Tech Used
 
-ReactJS
-React-Router-DOM
-React-DOM
-Context API
-Styled Components
-HTML
-CSS
-JavaScript
-Local Storage
-Axios
-Responsive Ready
+ReactJS,
+React-Router-DOM,
+React-DOM,
+Context API,
+Styled Components,
+HTML,
+CSS,
+JavaScript,
+Local Storage,
+Axios,
+Responsive Ready,
 ViteJS
 
 ## Preview
@@ -27,6 +27,6 @@ ViteJS
 
 ### Installation
 
-npm-install => install dependencies
-npm-run-dev => for development use
-npm-run-buid => for production build
+npm-install => install dependencies,
+npm-run-dev => for development use,
+npm-run-buid => for production build,
